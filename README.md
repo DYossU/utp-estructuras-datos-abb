@@ -16,5 +16,8 @@ Aplicar estructuras de datos jerárquicas (ABB) para organizar, registrar, consu
 1. Abre el proyecto en tu IDE compatible con Maven (Apache NetBeans, VS Code o IntelliJ IDEA).
 2. Compila el proyecto y ejecuta la clase `main.Main`.
 
+## Repositorio con los datos
+https://github.com/DYossU/utp-estructuras-datos-abb
+
 ## Licencia
 Este proyecto se distribuye bajo la licencia **MIT**. Consulta el archivo `LICENSE` para más detalles.
